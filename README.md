@@ -10,7 +10,7 @@
 
 📊 M.S. Thesis - Predicting Relationships between Drought Indicators and Ecological Drought Impacts using Machine Learning and Explainable AI in the Cheyenne River Basin, South Dakota
 
-😄 Pronouns: she/her
+😄 Pronouns: She/Her
 
 ## 🏅 Accomplishments
 
