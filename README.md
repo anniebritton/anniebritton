@@ -14,7 +14,7 @@
 
 ## 🏅 Accomplishments
 
-- 🚀 2022 NASA DEVELOP National Program & SSAI Graduate Scholarship Recipient, for embodying DEVELOP's and SSAI's core values of Collaboration, Discovery, Service, and Passion
+- 🚀 2022 NASA DEVELOP National Program & SSAI Graduate Scholarship Recipient, for embodying the core values of collaboration, discovery, service, and passion
 
 - 🌵 Presenter,	NASA Earth Science Applications Week 2022 @ NASA HQ & Poster Presenter at AGU's 2022 Fall Meeting - Evaluating Rock Pool Hydroperiod Fluctuation using Climate Variables to Inform Habitat Monitoring and Protection in the Western Sonoran Desert
 
