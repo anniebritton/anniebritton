@@ -22,11 +22,10 @@
 
 - 🍃 Produced the first [publicly available research](https://www.knau.org/knau-and-arizona-news/2022-05-02/satellite-imagery-reveals-unprecedented-die-off-of-junipers-in-northern-arizona) quantifying Flagstaff, Arizona’s 2021 juniper die-off event using ML and aerial imagery
 
-
 ## ⌨️ Programming Languages
 - Python (pandas, NumPy, Matplotlib, seaborn, geopandas, netCDF4, rioxarray, rasterstats, Rasterio, Google Earth Engine API, scikit-learn)
 - R (tidyverse [tidyr, dplyr, tibble, purr, stringr, forcats, ggplot2], lubridate, rgdal, raster)
 - JavaScript (novice)
 - SQL (novice)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniebritton)](https://github.com/anuraghazra/github-readme-stats)
