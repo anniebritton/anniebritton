@@ -27,3 +27,5 @@
 - R (tidyverse [tidyr, dplyr, tibble, purr, stringr, forcats, ggplot2], lubridate, rgdal, raster)
 - JavaScript (novice)
 - SQL (novice)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniebritton)](https://github.com/anuraghazra/github-readme-stats)
