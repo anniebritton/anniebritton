@@ -28,4 +28,4 @@
 - JavaScript (novice)
 - SQL (novice)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniebritton)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniebritton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
