@@ -6,7 +6,7 @@
 
 🛰️ I'm currently working on a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events. 
 
-🌱 I'm always working on building my geospatial skillset. My technical strengths lie in data analysis and visualization, geospatial analysis, remote sensing, Python, R, Google Earth Engine, GIS, and science communication.
+🌱 I'm always working to grow my geospatial and coding skillsets. My technical strengths lie in data analysis and visualization, geospatial analysis, remote sensing, Python, R, Google Earth Engine, GIS, and science communication.
 
 📊 M.S. Thesis - Predicting Relationships between Drought Indicators and Ecological Drought Impacts using Machine Learning and Explainable AI in the Cheyenne River Basin, South Dakota
 
