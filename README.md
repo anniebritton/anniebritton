@@ -2,7 +2,7 @@
 
 ### **Graduate Researcher @ Johns Hopkins Hydroclimate Research Group | M.S. Student in Environmental Sciences and Policy | 2x NASA DEVELOPer**
 
-👋 My name is Annie Britton and I'm an applied environmental scientist passionate about digging into Earth science data to explore questions about our planet.
+👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to explore questions about our planet.
 
 🛰️ I'm currently working on a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events. 
 
