@@ -16,8 +16,6 @@
 
 - 🌵 Presenter,	NASA Earth Science Applications Week 2022 @ NASA HQ & Poster Presenter at AGU's 2022 Fall Meeting - Evaluating Rock Pool Hydroperiod Fluctuation using Climate Variables to Inform Habitat Monitoring and Protection in the Western Sonoran Desert
 
-- 📣 Speaker for the [Johns Hopkins Sustainable Solutions Speaker Series](https://www.linkedin.com/events/sustainablesolutions-expandingh7011097329982152704/about/)
-
 - 🍃 Produced the first [publicly available research](https://www.knau.org/knau-and-arizona-news/2022-05-02/satellite-imagery-reveals-unprecedented-die-off-of-junipers-in-northern-arizona) quantifying Flagstaff, Arizona’s 2021 juniper die-off event using ML and aerial imagery
 
 ## ⌨️ Programming Languages
