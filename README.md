@@ -2,7 +2,7 @@
 
 ### **Graduate Researcher @ Johns Hopkins Hydroclimate Research Group | M.S. Student in Environmental Sciences and Policy | 2x NASA DEVELOPer**
 
-👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to explore questions about our planet.
+👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
 📊 M.S. Thesis - An Interpretable Machine Learning Model to Explore Relationships between Drought Indexes and Ecological Drought Impacts in the Cheyenne River Basin, USA
 
