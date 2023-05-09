@@ -4,7 +4,7 @@
 
 👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
-📊 M.S. Thesis - An Interpretable Machine Learning Model to Explore Relationships between Drought Indexes and Ecological Drought Impacts in the Cheyenne River Basin, USA
+📊 M.S. Thesis - An Interpretable Machine Learning Model to Explore Relationships between Drought Indices and Ecological Drought Impacts in the Cheyenne River Basin, USA
 
 🛰️ I'm currently working for Johns Hopkins University's Hydroclimate Research Group on a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events. 
 
