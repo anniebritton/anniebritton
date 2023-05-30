@@ -10,7 +10,7 @@
 
 ## 🏅 Accomplishments
 
-- 🛰️ Awarded Outstanding Capstone Thesis for the 2023 Graduating Class from the Johns Hopkins Department of Environmental Sciences and Policy
+- 🛰️ Awarded [Outstanding Capstone Thesis](https://github.com/anniebritton/Ecological-Drought-ML-Modeling) for the 2023 Graduating Class from the Johns Hopkins Department of Environmental Sciences and Policy
 
 - 🚀 2022 NASA DEVELOP National Program & SSAI Graduate Scholarship Recipient, for embodying the core values of collaboration, discovery, service, and passion
 
