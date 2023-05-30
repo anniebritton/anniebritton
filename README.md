@@ -1,16 +1,16 @@
 ## 🌎 About Me
 
-### **Graduate Researcher @ Johns Hopkins Hydroclimate Research Group | M.S. Student in Environmental Sciences and Policy | 2x NASA DEVELOPer**
+### **Data Scientist @ Climate Engine | M.S. in Environmental Sciences and Policy | 2x NASA DEVELOPer**
 
 👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
 📊 M.S. Thesis - An Interpretable Machine Learning Model to Explore Relationships between Drought Indices and Ecological Drought Impacts in the Cheyenne River Basin, USA
 
-🛰️ I'm currently working for Johns Hopkins University's Hydroclimate Research Group on a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events. 
-
 😄 Pronouns: She/Her
 
 ## 🏅 Accomplishments
+
+- 🛰️ Awarded Outstanding Capstone Thesis for the 2023 Graduating Class from the Johns Hopkins Department of Environmental Sciences and Policy
 
 - 🚀 2022 NASA DEVELOP National Program & SSAI Graduate Scholarship Recipient, for embodying the core values of collaboration, discovery, service, and passion
 
