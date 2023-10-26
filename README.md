@@ -9,7 +9,8 @@
 ## ⌨️ Programming Languages
 - Python (pandas, NumPy, Matplotlib, seaborn, geopandas, netCDF4, rioxarray, rasterstats, Rasterio, Google Earth Engine API, scikit-learn)
 - R (tidyverse [tidyr, dplyr, tibble, purr, stringr, forcats, ggplot2], lubridate, rgdal, raster)
-- Basic: JavaScript & SQL
+- SQL (primarily BigQuery)
+- JavaScript
 
 ## 🚀 Fun Stuff
 
