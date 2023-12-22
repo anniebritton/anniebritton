@@ -1,6 +1,6 @@
 ## 🌎 About Me
 
-### **Data Scientist @ Climate Engine | M.S. in Environmental Sciences and Policy | 2x NASA DEVELOPer**
+### **Applied Climate Scientist @ Climate Engine | M.S. in Environmental Sciences and Policy | 2x NASA DEVELOPer**
 
 👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
