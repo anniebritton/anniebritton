@@ -7,7 +7,7 @@
 😄 Pronouns: She/Her
 
 ## ⌨️ Programming Languages
-- Python (pandas, NumPy, Matplotlib, seaborn, geopandas, netCDF4, rioxarray, rasterstats, Rasterio, Google Earth Engine API, scikit-learn)
+- Python (pandas, NumPy, geopandas, GDAL, xarray, netCDF4, rioxarray, rasterstats, Rasterio, Google Earth Engine API, scikit-learn, Matplotlib, seaborn)
 - R (tidyverse [tidyr, dplyr, tibble, purr, stringr, forcats, ggplot2], lubridate, rgdal, raster)
 - SQL (primarily BigQuery)
 - JavaScript
