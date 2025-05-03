@@ -1,16 +1,16 @@
 ## 🌎 About Me
 
-### **Lead Earth Scientist @ Climate Engine | M.S. in Environmental Sciences and Policy | 2x NASA DEVELOPer**
+### **Lead Earth Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
 
 👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
 😄 Pronouns: She/Her
 
-## ⌨️ Programming Languages
-- Python (pandas, NumPy, Matplotlib, seaborn, geopandas, netCDF4, rioxarray, rasterstats, Rasterio, Google Earth Engine API, scikit-learn, Vertex AI)
-- R (tidyverse, rgdal, raster)
-- SQL (primarily BigQuery)
-- JavaScript
+## ⌨️ Technical Skills
+- AI/ML: XAI methods (SHAP, LIME), LLM applications, supervised and unsupervised ML
+- Programming Languages: Python, R, JavaScript, SQL, Bash
+- Cloud Platforms: Google Cloud Platform (BigQuery, Vertex AI, GCS), GitHub
+- Geospatial Tools: Google Earth Engine, QGIS, ArcGIS, Tableau
 
 ## 🛰️ Recent Publications
 
