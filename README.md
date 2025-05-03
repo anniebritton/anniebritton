@@ -4,8 +4,6 @@
 
 👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
-😄 Pronouns: She/Her
-
 ## ⌨️ Technical Skills
 - AI/ML: XAI methods (SHAP, LIME), LLM applications, supervised and unsupervised ML
 - Programming Languages: Python, R, JavaScript, SQL, Bash
