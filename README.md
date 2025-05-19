@@ -2,7 +2,7 @@
 
 ### **Lead Earth Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
 
-👋 My name is Annie Britton and I'm an environmental scientist passionate about digging into Earth science data to provide actionable information about our planet.
+👋 My name is Annie Britton, and I'm an applied scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
 ## ⌨️ Technical Skills
 - Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, geopandas, gdal, rasterio, shapely, fiona, netCDF4, rioxarray, Earth Engine API, scipy, scikit-learn), R, JavaScript, SQL, Bash
