@@ -5,9 +5,9 @@
 👋 My name is Annie Britton, and I'm an applied scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
 ## ⌨️ Technical Skills
-- Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, geopandas, gdal, rasterio, shapely, fiona, netCDF4, rioxarray, Earth Engine API, scipy, scikit-learn), R, JavaScript, SQL, Bash
+Programming Languages: Python (pandas, NumPy, Matplotlib, geopandas, gdal, rasterio, shapely, fiona, netCDF4, zarr, xarray, rioxarray, Earth Engine API, Dask, scipy, scikit-learn), R, JavaScript, SQL, Bash
 - Cloud Platforms: Google Cloud Platform (BigQuery, Vertex AI, GCS), GitHub
-- AI/ML: LLM applications, XAI methods (SHAP, LIME), supervised and unsupervised ML
+- AI/ML: LLM applications, RAG, XAI methods (SHAP, LIME), supervised and unsupervised ML
 - Geospatial Tools: Google Earth Engine, QGIS, ArcGIS, Tableau
 
 ## 🛰️ Recent Publications
