@@ -1,6 +1,6 @@
 ## 🌎 About Me
 
-### **Lead Earth Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
+### **Lead Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
 
 👋 My name is Annie Britton, and I'm an applied scientist passionate about digging into Earth science data to provide actionable information about our planet.
 
