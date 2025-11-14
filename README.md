@@ -2,13 +2,11 @@
 
 ### **Lead Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
 
-👋 My name is Annie Britton, and I'm an applied scientist passionate about digging into Earth science data to provide actionable information about our planet.
-
 ## ⌨️ Technical Skills
-- Programming Languages: Python (pandas, NumPy, Dask, xarray, zarr, netCDF4, scikit-learn, scipy, PyTorch, geopandas, shapely, fiona, gdal, rasterio, rioxarray, Matplotlib), R, JavaScript, SQL, Unix Command Line/Bash
-- Cloud & Dev Tools: Google Cloud Platform (BigQuery, Vertex AI, Cloud Storage), GitHub, PyCharm, Argo
-- AI/ML: LLM applications, RAG, XAI methods (SHAP, LIME), supervised and unsupervised ML
-- Geospatial Tools: Google Earth Engine (Code Editor, Python API), QGIS, ArcGIS, Tableau
+- Machine Learning + AI: XGBoost, scikit-learn, PyTorch, LLM Applications (RAG, prompt engineering, Gemini, OpenAI), SAM (computer vision), XAI (SHAP), supervised/unsupervised ML, time series forecasting
+- Programming Languages: Python, SQL, R, JavaScript, Bash
+- Cloud + Infrastructure: Google Cloud Platform (BigQuery, Cloud Storage, Earth Engine, Vertex AI), Dask, Argo, Git, CI/CD
+- Additional Tools + Skills: Tableau, PyCharm, Jupyter, Linear, QGIS, ArcGIS
 
 ## 🛰️ Recent Publications
 
