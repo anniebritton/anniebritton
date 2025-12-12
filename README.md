@@ -10,8 +10,8 @@
 
 ## 🛰️ Recent Publications
 
-- **Britton, A.**, & Pritchard, I. (Forthcoming, 2025). Projecting climate-driven changes in agro-ecological suitability for specialty crops using FAO ECOCROP and Earth observation data [Conference Abstract]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
-- Pritchard, I., & **Britton, A.** (Forthcoming, 2025). Assessing freshwater biodiversity intactness using a global basin-level connectivity index [Conference Abstract]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
+- **Britton, A.**, & Pritchard, I. (2025). Projecting climate-driven changes in agro-ecological suitability for specialty crops using FAO ECOCROP and Earth observation data [Oral Presentation]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
+- Pritchard, I., & **Britton, A.** (2025). Assessing freshwater biodiversity intactness using a global basin-level connectivity index [Poster Presentation]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
 - **Britton, A.**, Graham, G., & Woloszyn, M. (2024). Exploring Relationships between Drought Indices and Ecological Drought Impacts using Machine Learning and Explainable AI. Journal of Applied and Service Climatology, 2024. https://doi.org/10.46275/JOASC.2024.09.001
 - Mendrinos, A., O’Brien, J., Davis, M., Baldwin, A., Zaitchik, B., **Britton, A**., Mwanja, I., & Gohlke, J. (2024). Association between summertime emergency department visits and maximum daily heat index in rural and non-rural areas of Virginia (2015-2022). Science of The Total Environment, 948. https://doi.org/10.2139/ssrn.4736254
 - Williams, M., Peppelenbos, L., White, C., Pritchard, I., **Britton, A.**, Smith, G., & Herring, J. (2024). Leveraging Geospatial & AI For Biodiversity Finance: A Case Study Of Mining. Climate Engine [White Paper]. http://climateengine.com/site/assets/uploads/2024/09/Geospatial-and-AI-for-Biodiversity-Finance.pdf
