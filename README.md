@@ -1,14 +1,14 @@
-## 🌎 About Me
+## About Me
 
-### **Lead Scientist @ Earth Finance (Formerly Climate Engine) | 2x NASA DEVELOPer**
+### **Lead Scientist @ Earth Finance / Climate Engine | 2x NASA DEVELOPer**
 
 ## ⌨️ Technical Skills
-- Machine Learning + AI: XGBoost, scikit-learn, PyTorch, LLM Applications (RAG, prompt engineering, Gemini, OpenAI), SAM (computer vision), XAI (SHAP), supervised/unsupervised ML, time series forecasting
+- AI + ML: LLM Applications (RAG, prompt engineering, Claude, Gemini, OpenAI), PyTorch, computer vision (SAM), XAI (SHAP), XGBoost, scikit-learn
 - Programming Languages: Python, SQL, R, JavaScript, Bash
-- Cloud + Infrastructure: Google Cloud Platform (BigQuery, Cloud Storage, Earth Engine, Vertex AI), Dask, Argo, Git, CI/CD
-- Additional Tools + Skills: Tableau, PyCharm, Jupyter, Linear, QGIS, ArcGIS
+- Cloud + Infrastructure: Google Cloud Platform (BigQuery, Earth Engine, Vertex AI), Dask, Argo, Git, CI/CD
+- Additional Tools + Skills: Tableau, PyCharm, Jupyter, QGIS, ArcGIS
 
-## 🛰️ Recent Publications
+## 📑 Publications
 
 - **Britton, A.**, & Pritchard, I. (2025). Projecting climate-driven changes in agro-ecological suitability for specialty crops using FAO ECOCROP and Earth observation data [Oral Presentation]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
 - Pritchard, I., & **Britton, A.** (2025). Assessing freshwater biodiversity intactness using a global basin-level connectivity index [Poster Presentation]. American Geophysical Union (AGU) Fall Meeting 2025, New Orleans, LA, USA.
