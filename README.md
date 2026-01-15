@@ -3,7 +3,7 @@
 ### **Lead Scientist @ Earth Finance / Climate Engine | 2x NASA DEVELOPer**
 
 ## ⌨️ Technical Skills
-- AI + ML: LLM Applications (RAG, prompt engineering, Claude, Gemini, OpenAI), PyTorch, computer vision (SAM), XAI (SHAP), XGBoost, scikit-learn
+- AI + ML: LLMs (Agents, RAG, prompt engineering, HITL, Evaluation Frameworks, LangChain/Graph/Smith), PyTorch, computer vision (SAM), XAI (SHAP), XGBoost, scikit-learn
 - Programming Languages: Python, SQL, R, JavaScript, Bash
 - Cloud + Infrastructure: Google Cloud Platform (BigQuery, Earth Engine, Vertex AI), Dask, Argo, Git, CI/CD
 - Additional Tools + Skills: Tableau, PyCharm, Jupyter, QGIS, ArcGIS
