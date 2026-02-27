@@ -1,6 +1,4 @@
-## About Me
-
-### **Lead Scientist @ Earth Finance / Climate Engine | 2x NASA DEVELOPer**
+## **Agentic AI @ Quantum Rise | Formerly @ NASA, Climate Engine, & Earth Finance**
 
 ## ⌨️ Technical Skills
 - AI + ML: LLMs (Agents, RAG, prompt engineering, HITL, Evaluation Frameworks, LangChain/Graph/Smith), PyTorch, computer vision (SAM), XAI (SHAP), XGBoost, scikit-learn
