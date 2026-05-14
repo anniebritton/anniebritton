@@ -63,7 +63,7 @@ At Quantum Rise, I work as a subject-matter expert on client engagements, run di
 - Agent evaluation & reliability — how do you actually know an agentic system is working? Evals, benchmarks, and failure mode design
 - AI in high-stakes domains — what changes when errors have real consequences; rigor requirements for production agentic systems
 - Multi-agent orchestration — LangGraph patterns, agent handoffs, complex workflow decomposition
-- AEO (Answer Engine Optimization) and agentic applications — how content, data, and systems need to be structured for AI agent consumption
+- AEO (Agentic Engine Optimization) and agentic applications — how content, data, and systems need to be structured for AI agent consumption
 
 ---
 
@@ -72,7 +72,6 @@ At Quantum Rise, I work as a subject-matter expert on client engagements, run di
 - Speaking & panel invitations — conferences, podcasts, and panels on agentic AI, AI reliability, or AI applied to environmental/scientific domains
 - Advisory roles — fractional or formal advisor positions at climate-adjacent AI startups or science-driven companies
 - Collaborations — research partnerships or project work at the intersection of AI and environmental science
-- The right full-time opportunity — open to hearing about strong roles; context matters more than title
 
 ---
 
